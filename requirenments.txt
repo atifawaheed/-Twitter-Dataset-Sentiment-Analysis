@@ -1,5 +1,5 @@
-textblob==0.17.1
-pandas 
 streamlit
-cleantext
+pandas
+textblob
+clean-text
 emoji
