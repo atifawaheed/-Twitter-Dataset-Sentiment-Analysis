@@ -6,7 +6,8 @@ import emoji
 
 st.title(" Twitter Sentiment Analyzer")
 
-st.image("Twitter-Logo-JPG.jpg",width=300)
+# st.image("Twitter-Logo-JPG.jpg",width=300)
+st.image("https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg", width=300)
 
 st.header("Now Scale Your Thoughts")
 
