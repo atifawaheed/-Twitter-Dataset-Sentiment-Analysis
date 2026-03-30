@@ -1,5 +1,0 @@
-streamlit
-pandas
-textblob
-clean-text
-emoji
